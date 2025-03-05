@@ -1,0 +1,23 @@
+.log{
+  /* align-items: center; */
+  text-align: center;
+}
+
+.login{
+  padding: 20px;
+  display:flex;
+  justify-content: space-evenly;
+}
+
+input{
+  font-size: large;
+  /* margin: 20px; */
+}
+
+.btn{
+ margin-left: 6rem;
+ font-size: large;
+ color: white;
+ background-color: blue;
+ font-weight: bolder;
+}
