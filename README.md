@@ -1,8 +1,19 @@
-# React + Vite
+# React Routing 
+I created a simple React Router setup that includes navigation and multiple pages (Home, About, Login, and User). The Navbar is included on each page to allow users to navigate easily.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Key Features
+- Routing with react-router-dom
+- Navbar Integration
+The Navbar component is included in all routes
 
-Currently, two official plugins are available:
+# It Works
+The app starts with RouterProvider, which loads the router configuration.
+When a user visits /, they see the Home component.
+/about shows the About page, and /login displays the Login page.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+- Install dependencies :- npm install
+
+- Start the development server :- npm run dev
+
+Routing with react-router-dom :- Uses createBrowserRouter and RouterProvider for route management.
