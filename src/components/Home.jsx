@@ -7,11 +7,9 @@ export default function Home() {
 
   return (
     <div className="flex flex-col items-center justify-center min-h-screen bg-gray-100">
-      <header className="w-full p-4 bg-blue-600 text-white text-center text-xl font-bold">
-        My Website
-      </header>
+      <header className="w-full p-4 bg-blue-600 text-white text-center text-xl font-bold"></header>
       <main className="flex flex-col items-center p-8 bg-white shadow-lg rounded-lg text-center">
-        <h1 className="text-3xl font-bold mb-4">Welcome to My Website</h1>
+        <h1 className="text-3xl font-bold mb-4">Welcome to My Website</h1><br />
         <p className="text-gray-600 mb-4">
           This is a simple homepage built with React and Tailwind CSS.
         </p>
