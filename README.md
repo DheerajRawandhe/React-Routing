@@ -1,10 +1,10 @@
 # React Routing 
 I created a simple React Router setup that includes navigation and multiple pages (Home, About, Login, and User). The Navbar is included on each page to allow users to navigate easily.
 
-## Key Features :-
+# Key Features :-
 - Routing with react-router-dom
 - Navbar Integration
-The Navbar component is included in all routes
+The Navbar component is included in all routes.
 
 ## It Works :-
 The app starts with RouterProvider, which loads the router configuration.
