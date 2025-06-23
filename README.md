@@ -12,7 +12,6 @@ When a user visits /, they see the Home component.
 /about shows the About page, and /login displays the Login page.
 
 - Install dependencies :- npm install
-
 - Start the development server :- npm run dev   
 
 Routing with react-router-dom :- Uses createBrowserRouter and RouterProvider for route management.
