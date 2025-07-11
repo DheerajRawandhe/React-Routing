@@ -6,7 +6,7 @@ I created a simple React Router setup that includes navigation and multiple page
 - Navbar Integration
 The Navbar component is included in all routes.
 
-## It Works 
+### It Works 
 The app starts with RouterProvider, which loads the router configuration.
 When a user visits /, they see the Home component.
 /about shows the About page, and /login displays the Login page.
