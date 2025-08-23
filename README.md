@@ -14,4 +14,4 @@ When a user visits /, they see the Home component.
 - Install dependencies :- npm install
 - Start the development server :- npm run dev   
 
-Routing with react-router-dom :- Uses createBrowserRouter and RouterProvider for route management
+Routing with react-router-dom :- Uses createBrowserRouter and RouterProvider for route management.
