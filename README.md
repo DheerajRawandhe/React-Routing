@@ -1,4 +1,4 @@
-## React Routing 
+8## React Routing 
 I created a simple React Router setup that includes navigation and multiple pages (Home, About, Login, and User). The Navbar is included on each page to allow users to navigate easily.
 
 ### Key Features :-
@@ -14,4 +14,4 @@ When a user visits /, they see the Home component.
 - Install dependencies :- npm install
 - Start the development server :- npm run dev   
 
-Routing with react-router-dom :- Uses createBrowserRouter and RouterProvider for route management
+Routing with react-router-dom :- Uses createBrowserRouter and RouterProvider for route management.
